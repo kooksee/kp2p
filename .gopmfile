@@ -1,0 +1,15 @@
+[target]
+path = github.com/kooksee/kp2p
+
+[deps]
+github.com/ethereum/go-ethereum/log = 
+github.com/syndtr/goleveldb = 
+github.com/davecgh/go-spew/spew = 
+github.com/jackpal/go-nat-pmp = 
+github.com/huin/goupnp = 
+github.com/docker/docker/pkg/reexec = 
+github.com/docker/docker = 
+golang.org/x/net/websocket = 
+github.com/julienschmidt/httprouter = 
+github.com/golang/snappy = 
+
